@@ -1,0 +1,3 @@
+Abrir o arquivo, Texto
+Exportar para PDF
+Clicar botão executar
